@@ -1,0 +1,277 @@
+{
+    "members": [
+      {
+        "name": "alison",
+        "membership": "gold"
+      },
+      {
+        "name": "amanda",
+        "membership": "silver"
+      },
+      {
+        "name": "amy",
+        "membership": "bronze"
+      },
+      {
+        "name": "andrew",
+        "membership": "bronze"
+      },
+      {
+        "name": "ashley",
+        "membership": "silver"
+      },
+      {
+        "name": "bill",
+        "membership": "free"
+      },
+      {
+        "name": "bradley",
+        "membership": "gold"
+      },
+      {
+        "name": "brian",
+        "membership": "bronze"
+      },
+      {
+        "name": "brittany",
+        "membership": "silver"
+      },
+      {
+        "name": "carolyn",
+        "membership": "bronze"
+      },
+      {
+        "name": "cassandra",
+        "membership": "gold"
+      },
+      {
+        "name": "christopher",
+        "membership": "silver"
+      },
+      {
+        "name": "cindy",
+        "membership": "bronze"
+      },
+      {
+        "name": "colleen",
+        "membership": "silver"
+      },
+      {
+        "name": "cynthia",
+        "membership": "free"
+      },
+      {
+        "name": "dawn",
+        "membership": "free"
+      },
+      {
+        "name": "diana",
+        "membership": "gold"
+      },
+      {
+        "name": "donna",
+        "membership": "silver"
+      },
+      {
+        "name": "emily",
+        "membership": "bronze"
+      },
+      {
+        "name": "eric",
+        "membership": "free"
+      },
+      {
+        "name": "francis",
+        "membership": "silver"
+      },
+      {
+        "name": "hailey",
+        "membership": "bronze"
+      },
+      {
+        "name": "hayley",
+        "membership": "silver"
+      },
+      {
+        "name": "hunter",
+        "membership": "free"
+      },
+      {
+        "name": "james",
+        "membership": "free"
+      },
+      {
+        "name": "janice",
+        "membership": "silver"
+      },
+      {
+        "name": "jennifer",
+        "membership": "gold"
+      },
+      {
+        "name": "jeremy",
+        "membership": "bronze"
+      },
+      {
+        "name": "jessica",
+        "membership": "silver"
+      },
+      {
+        "name": "joshua",
+        "membership": "bronze"
+      },
+      {
+        "name": "julia",
+        "membership": "silver"
+      },
+      {
+        "name": "julie",
+        "membership": "gold"
+      },
+      {
+        "name": "katherine",
+        "membership": "bronze"
+      },
+      {
+        "name": "keith",
+        "membership": "silver"
+      },
+      {
+        "name": "kenneth",
+        "membership": "bronze"
+      },
+      {
+        "name": "kimberly",
+        "membership": "gold"
+      },
+      {
+        "name": "kristen",
+        "membership": "silver"
+      },
+      {
+        "name": "lynn",
+        "membership": "bronze"
+      },
+      {
+        "name": "madison",
+        "membership": "silver"
+      },
+      {
+        "name": "mark",
+        "membership": "free"
+      },
+      {
+        "name": "martin",
+        "membership": "gold"
+      },
+      {
+        "name": "mary",
+        "membership": "bronze"
+      },
+      {
+        "name": "matthew",
+        "membership": "silver"
+      },
+      {
+        "name": "michael",
+        "membership": "free"
+      },
+      {
+        "name": "michelle",
+        "membership": "silver"
+      },
+      {
+        "name": "monique",
+        "membership": "gold"
+      },
+      {
+        "name": "nathan",
+        "membership": "bronze"
+      },
+      {
+        "name": "nicholas",
+        "membership": "silver"
+      },
+      {
+        "name": "nicole",
+        "membership": "bronze"
+      },
+      {
+        "name": "paige",
+        "membership": "silver"
+      },
+      {
+        "name": "paula",
+        "membership": "bronze"
+      },
+      {
+        "name": "peter",
+        "membership": "free"
+      },
+      {
+        "name": "randy",
+        "membership": "free"
+      },
+      {
+        "name": "richard",
+        "membership": "silver"
+      },
+      {
+        "name": "robin",
+        "membership": "bronze"
+      },
+      {
+        "name": "ruth",
+        "membership": "silver"
+      },
+      {
+        "name": "sandra",
+        "membership": "bronze"
+      },
+      {
+        "name": "sarah",
+        "membership": "gold"
+      },
+      {
+        "name": "sean",
+        "membership": "bronze"
+      },
+      {
+        "name": "stephanie",
+        "membership": "silver"
+      },
+      {
+        "name": "stephen",
+        "membership": "bronze"
+      },
+      {
+        "name": "teresa",
+        "membership": "silver"
+      },
+      {
+        "name": "terri",
+        "membership": "gold"
+      },
+      {
+        "name": "thomas",
+        "membership": "bronze"
+      },
+      {
+        "name": "tonya",
+        "membership": "silver"
+      },
+      {
+        "name": "veronica",
+        "membership": "bronze"
+      },
+      {
+        "name": "victoria",
+        "membership": "free"
+      },
+      {
+        "name": "william",
+        "membership": "gold"
+      }
+    ]
+  }
+  
